@@ -14,3 +14,19 @@ C:\Users\miram\source\repos\Observer winapp\Observer winapp\obj\Debug\net7.0-win
 C:\Users\miram\source\repos\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\Observer winapp.pdb
 C:\Users\miram\source\repos\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\Observer winapp.genruntimeconfig.cache
 C:\Users\miram\source\repos\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\ref\Observer winapp.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\bin\Debug\net7.0-windows\Observer winapp.exe
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\bin\Debug\net7.0-windows\Observer winapp.deps.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\bin\Debug\net7.0-windows\Observer winapp.runtimeconfig.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\bin\Debug\net7.0-windows\Observer winapp.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\bin\Debug\net7.0-windows\Observer winapp.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\Observer_winapp.Form1.resources
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\Observer winapp.csproj.GenerateResource.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\Observer winapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\Observer winapp.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\Observer winapp.AssemblyInfo.cs
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\Observer winapp.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\Observer winapp.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\refint\Observer winapp.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\Observer winapp.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\Observer winapp.genruntimeconfig.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Observer winapp\Observer winapp\obj\Debug\net7.0-windows\ref\Observer winapp.dll

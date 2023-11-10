@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miram\\source\\repos\\Observer winapp\\Observer winapp\\Observer winapp.csproj",
+      "projectUniqueName": "C:\\Users\\miram\\OneDrive\\Dokumenty\\GitHub\\3ITB_S1\\Observer winapp\\Observer winapp\\Observer winapp.csproj",
       "projectName": "Observer winapp",
-      "projectPath": "C:\\Users\\miram\\source\\repos\\Observer winapp\\Observer winapp\\Observer winapp.csproj",
+      "projectPath": "C:\\Users\\miram\\OneDrive\\Dokumenty\\GitHub\\3ITB_S1\\Observer winapp\\Observer winapp\\Observer winapp.csproj",
       "packagesPath": "C:\\Users\\miram\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miram\\source\\repos\\Observer winapp\\Observer winapp\\obj\\",
+      "outputPath": "C:\\Users\\miram\\OneDrive\\Dokumenty\\GitHub\\3ITB_S1\\Observer winapp\\Observer winapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miram\\AppData\\Roaming\\NuGet\\NuGet.Config",

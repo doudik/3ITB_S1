@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP IP observer", "TCP-IP observer\TCP IP observer.csproj", "{F8CB846B-8691-4432-9BF3-0FC6D81B3787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{557F4477-8A91-4F2F-ADB2-CE5A48A8A836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8CB846B-8691-4432-9BF3-0FC6D81B3787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CB846B-8691-4432-9BF3-0FC6D81B3787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CB846B-8691-4432-9BF3-0FC6D81B3787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CB846B-8691-4432-9BF3-0FC6D81B3787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557F4477-8A91-4F2F-ADB2-CE5A48A8A836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557F4477-8A91-4F2F-ADB2-CE5A48A8A836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557F4477-8A91-4F2F-ADB2-CE5A48A8A836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557F4477-8A91-4F2F-ADB2-CE5A48A8A836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {314E7B19-4FF0-4D6E-8A4E-180A7640E5D5}
+	EndGlobalSection
+EndGlobal

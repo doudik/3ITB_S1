@@ -1,0 +1,19 @@
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\bin\Debug\net7.0-windows\TCP IP observer.exe
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\bin\Debug\net7.0-windows\TCP IP observer.deps.json
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\bin\Debug\net7.0-windows\TCP IP observer.runtimeconfig.json
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\bin\Debug\net7.0-windows\TCP IP observer.dll
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\bin\Debug\net7.0-windows\TCP IP observer.pdb
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\bin\Debug\net7.0-windows\SimpleTCP.dll
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\TCP IP observer.csproj.AssemblyReference.cache
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\TCP_IP_observer.Form1.resources
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\TCP IP observer.csproj.GenerateResource.cache
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\TCP IP observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\TCP IP observer.AssemblyInfoInputs.cache
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\TCP IP observer.AssemblyInfo.cs
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\TCP IP observer.csproj.CoreCompileInputs.cache
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\TCP IP observer.csproj.CopyComplete
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\TCP IP observer.dll
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\refint\TCP IP observer.dll
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\TCP IP observer.pdb
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\TCP IP observer.genruntimeconfig.cache
+C:\Users\miram\source\repos\3ITBS1_23-24\TCP-IP observer\TCP-IP observer\obj\Debug\net7.0-windows\ref\TCP IP observer.dll
