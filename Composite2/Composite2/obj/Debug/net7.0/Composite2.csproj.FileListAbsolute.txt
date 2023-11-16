@@ -1,0 +1,14 @@
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\bin\Debug\net7.0\Composite2.exe
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\bin\Debug\net7.0\Composite2.deps.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\bin\Debug\net7.0\Composite2.runtimeconfig.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\bin\Debug\net7.0\Composite2.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\bin\Debug\net7.0\Composite2.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\obj\Debug\net7.0\Composite2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\obj\Debug\net7.0\Composite2.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\obj\Debug\net7.0\Composite2.AssemblyInfo.cs
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\obj\Debug\net7.0\Composite2.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\obj\Debug\net7.0\Composite2.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\obj\Debug\net7.0\refint\Composite2.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\obj\Debug\net7.0\Composite2.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\obj\Debug\net7.0\Composite2.genruntimeconfig.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Composite2\Composite2\obj\Debug\net7.0\ref\Composite2.dll
