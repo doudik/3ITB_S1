@@ -1,0 +1,14 @@
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\bin\Debug\net7.0\SingletonIntro.exe
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\bin\Debug\net7.0\SingletonIntro.deps.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\bin\Debug\net7.0\SingletonIntro.runtimeconfig.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\bin\Debug\net7.0\SingletonIntro.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\bin\Debug\net7.0\SingletonIntro.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\obj\Debug\net7.0\SingletonIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\obj\Debug\net7.0\SingletonIntro.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\obj\Debug\net7.0\SingletonIntro.AssemblyInfo.cs
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\obj\Debug\net7.0\SingletonIntro.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\obj\Debug\net7.0\SingletonIntro.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\obj\Debug\net7.0\refint\SingletonIntro.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\obj\Debug\net7.0\SingletonIntro.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\obj\Debug\net7.0\SingletonIntro.genruntimeconfig.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\SingletonIntro\SingletonIntro\obj\Debug\net7.0\ref\SingletonIntro.dll
