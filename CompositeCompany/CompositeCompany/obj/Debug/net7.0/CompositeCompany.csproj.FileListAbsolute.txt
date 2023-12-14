@@ -1,0 +1,14 @@
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\bin\Debug\net7.0\CompositeCompany.exe
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\bin\Debug\net7.0\CompositeCompany.deps.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\bin\Debug\net7.0\CompositeCompany.runtimeconfig.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\bin\Debug\net7.0\CompositeCompany.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\bin\Debug\net7.0\CompositeCompany.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\obj\Debug\net7.0\CompositeCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\obj\Debug\net7.0\CompositeCompany.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\obj\Debug\net7.0\CompositeCompany.AssemblyInfo.cs
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\obj\Debug\net7.0\CompositeCompany.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\obj\Debug\net7.0\CompositeCompany.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\obj\Debug\net7.0\refint\CompositeCompany.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\obj\Debug\net7.0\CompositeCompany.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\obj\Debug\net7.0\CompositeCompany.genruntimeconfig.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeCompany\CompositeCompany\obj\Debug\net7.0\ref\CompositeCompany.dll
