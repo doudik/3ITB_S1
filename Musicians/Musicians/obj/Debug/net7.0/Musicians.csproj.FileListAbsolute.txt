@@ -1,0 +1,14 @@
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\bin\Debug\net7.0\Musicians.exe
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\bin\Debug\net7.0\Musicians.deps.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\bin\Debug\net7.0\Musicians.runtimeconfig.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\bin\Debug\net7.0\Musicians.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\bin\Debug\net7.0\Musicians.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\obj\Debug\net7.0\Musicians.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\obj\Debug\net7.0\Musicians.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\obj\Debug\net7.0\Musicians.AssemblyInfo.cs
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\obj\Debug\net7.0\Musicians.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\obj\Debug\net7.0\Musicians.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\obj\Debug\net7.0\refint\Musicians.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\obj\Debug\net7.0\Musicians.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\obj\Debug\net7.0\Musicians.genruntimeconfig.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Musicians\Musicians\obj\Debug\net7.0\ref\Musicians.dll

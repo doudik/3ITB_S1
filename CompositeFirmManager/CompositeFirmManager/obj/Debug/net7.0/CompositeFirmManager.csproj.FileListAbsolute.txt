@@ -1,0 +1,14 @@
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\bin\Debug\net7.0\CompositeFirmManager.exe
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\bin\Debug\net7.0\CompositeFirmManager.deps.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\bin\Debug\net7.0\CompositeFirmManager.runtimeconfig.json
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\bin\Debug\net7.0\CompositeFirmManager.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\bin\Debug\net7.0\CompositeFirmManager.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\obj\Debug\net7.0\CompositeFirmManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\obj\Debug\net7.0\CompositeFirmManager.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\obj\Debug\net7.0\CompositeFirmManager.AssemblyInfo.cs
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\obj\Debug\net7.0\CompositeFirmManager.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\obj\Debug\net7.0\CompositeFirmManager.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\obj\Debug\net7.0\refint\CompositeFirmManager.dll
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\obj\Debug\net7.0\CompositeFirmManager.pdb
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\obj\Debug\net7.0\CompositeFirmManager.genruntimeconfig.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\CompositeFirmManager\CompositeFirmManager\obj\Debug\net7.0\ref\CompositeFirmManager.dll
