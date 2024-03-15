@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Metadata.Ecma335;
 using System.Runtime.Versioning;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,6 +21,7 @@ namespace Spotify
             7. Shuffle the songs
          */
         List <Song> queueList = new List<Song>();
+        List<Song> songList = new List<Song>();
         private SongManager() { } //private constructor
         static SongManager songManager = new SongManager();
         public static SongManager Instance
@@ -33,14 +35,15 @@ namespace Spotify
             }
         }
         Song currentlyPlayedSong;
+        Form1 form;
 
-        void AddSong(Song song)
+        void AddSongToQueue(Song song)
         {
             queueList.Add(song);
             if(queueList.Count == 1)
                 currentlyPlayedSong = queueList[0];
         }   
-        void RemoveSong(Song song)
+        void RemoveSongFromQueueList(Song song)
         {
             if (song == currentlyPlayedSong)
             {
@@ -48,6 +51,33 @@ namespace Spotify
             }
             else {
                 queueList.Remove(song);
+            }
+        }
+        void AddSongToList(Song song)
+        {
+            if (songList.IndexOf(song) == -1)
+            {
+                songList.Add(song);
+            }
+            else
+            {
+                MessageBox.Show("Song already exists");
+            }
+        }
+        void RemoveSongFromList(Song song) {
+            if (song == currentlyPlayedSong)
+            {
+                MessageBox.Show("Cannot remove the song that is currently playing");
+            }
+            else if (songList.IndexOf(song) == -1)
+            {
+                MessageBox.Show("Song does not exist");
+            }
+            else {
+                songList.Remove(song);
+                if (queueList.Contains(song)) {
+                    queueList.Remove(song);
+                }
             }
         }
         void ShuffleListSong() { 
@@ -64,7 +94,35 @@ namespace Spotify
             currentlyPlayedSong = queueList[0];
         }
         void PlayNext() { 
-            
+            if(queueList.Count > 0)
+            {
+                currentlyPlayedSong = queueList[queueList.IndexOf(currentlyPlayedSong) + 1];
+            }
+        }
+        void PlayPrevious() {
+            if (queueList.IndexOf(currentlyPlayedSong) >= 1)
+            {
+                currentlyPlayedSong = queueList[queueList.IndexOf(currentlyPlayedSong) - 1];
+            }
+            else { 
+                MessageBox.Show("No previous song");
+            }
+        }
+        void PlayPauseSong() {
+            if (form.btn_play.Tag == "Play")
+            {
+                PlaySong();
+            }
+            else {
+                PauseSong();
+            }
+        }
+        void PlaySong() { 
+        
+        }
+        void PauseSong()
+        {
+
         }
     }
 }

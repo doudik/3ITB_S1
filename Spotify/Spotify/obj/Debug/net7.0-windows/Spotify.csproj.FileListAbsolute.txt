@@ -1,0 +1,6 @@
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Spotify\Spotify\obj\Debug\net7.0-windows\Spotify.Form1.resources
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Spotify\Spotify\obj\Debug\net7.0-windows\Spotify.csproj.GenerateResource.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Spotify\Spotify\obj\Debug\net7.0-windows\Spotify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Spotify\Spotify\obj\Debug\net7.0-windows\Spotify.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Spotify\Spotify\obj\Debug\net7.0-windows\Spotify.AssemblyInfo.cs
+C:\Users\miram\OneDrive\Dokumenty\GitHub\3ITB_S1\Spotify\Spotify\obj\Debug\net7.0-windows\Spotify.csproj.CoreCompileInputs.cache
